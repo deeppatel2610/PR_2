@@ -107,6 +107,7 @@ Text(
 
 <p align = "center">
   <img src = "https://github.com/deeppatel2610/list_of_fruits/assets/156797002/1654188d-d103-424b-8f39-16725090b002" width=22% height=35%>
+  <img src = "https://github.com/deeppatel2610/rad_and_white/assets/156797002/f86a9e6b-bb0f-44e4-bd98-454606d6096c" width=22% height=35%>
 </p>
 
 ## Contributing
